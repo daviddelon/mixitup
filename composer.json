@@ -1,0 +1,13 @@
+{
+  "name": " barrel/mixitup",
+  "description": "A CSS3 and jQuery Filter & Sort Plugin.",
+  "keywords": ["mixitup", "jquery"],
+  "homepage": "http://mixitup.io/",
+  "authors": [
+    {
+      "name": "Patrick Kunka",
+      "email": "info@mixitup.io"
+    }
+  ],
+  "license": "CC BY-ND 3.0",
+}
